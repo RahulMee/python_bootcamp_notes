@@ -1,6 +1,6 @@
-# complete-python-bootcamp 🐍
+# python_bootcamp_notes
 
-My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) course on Udemy. Thought I'd finally learn Python, and pretty amazed I've made it this far without it!
+My notes and assessments from the 2021 [Complete Python Bootcamp From Zero to Hero in Python]
 
 ### Setup
 This repo can  be viewed on [nbviewer](https://nbviewer.jupyter.org/github/mwesterby/complete-python-bootcamp/) for better rendering of the Jupyter Notebooks than in GitHub. Alternatively, to look at the files locally and interact with the notebooks:
